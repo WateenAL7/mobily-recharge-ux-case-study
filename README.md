@@ -43,7 +43,7 @@ The following screens compare the original recharge experience with the proposed
 
 Before
 
-<img width="589" height="1280" alt="5981113852768227542" src="https://github.com/user-attachments/assets/c19c1c16-e592-4eca-ba3c-9eed0d1cfde1" />
+<img width="440" height="956" alt="5981113852768227542" src="https://github.com/user-attachments/assets/c19c1c16-e592-4eca-ba3c-9eed0d1cfde1" />
 
 After
 
@@ -53,7 +53,7 @@ After
 
 Before
 
-<img width="589" height="1280" alt="5931551768418389573" src="https://github.com/user-attachments/assets/c90564d1-7d91-41fb-b7a7-2b96ff690f06" />
+<img width="440" height="956" alt="5931551768418389573" src="https://github.com/user-attachments/assets/c90564d1-7d91-41fb-b7a7-2b96ff690f06" />
 
 After
 
@@ -83,7 +83,3 @@ The complete project documentation is available in Notion, including:
 - Final Case Study
 
 https://raspy-carpenter-cde.notion.site/Project-1-Mobily-app-case-Study-391e1e36dda2805eb174f43bd7379e85?source=copy_link
-
-
-
-(سنضيف رابط Notion هنا)
