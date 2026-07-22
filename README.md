@@ -61,7 +61,7 @@ After
 
 ## Interactive Prototype
 
-Explore the interactive Figma prototype here:[Uploading Prototype link.txt…]()
+Explore the interactive Figma prototype here:https://www.figma.com/proto/tiQHvu9wsjEYfSXCjWh2Bt/Mobily-App-Redesighn?node-id=2-5&t=jrLwiKq3yPVQ0VcT-1
 
 
 ## Download Case Study
